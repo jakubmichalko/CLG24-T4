@@ -1,3 +1,74 @@
-.body{
-    color: black;
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #849E5F;
 }
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+header {
+    background-color: #4C8353
+    3:55;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 1rem;
+}
+
+nav ul li a {
+    color: #FFD0CC;
+    text-decoration: none;
+}
+
+.hero {
+    background: url('https://example.com/green-hero-image.jpg') no-repeat center center/cover;
+    color: #849E5F;
+    text-align: center;
+    padding: 5rem 0;
+}
+
+.hero h2 {
+    font-size: 3rem;
+    margin: 0;
+}
+
+.hero p {
+    font-size: 1.5rem;
+}
+
+.btn {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    background-color: #66bb6a;
+    color: #CF4D69;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 1rem;
+}
+
+section {
+    padding: 2rem 0;
+    text-align: center;
+}
+
+footer {
+    background-color: #2e7d32;
+    color: #CF4D69;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+

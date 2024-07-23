@@ -1,0 +1,44 @@
+
+Blog o tvorbě webu
+    
+HTML
+CSS
+JavaScript
+
+
+Rychlé intro do HTML
+       
+HTML, neboli HyperText markup language, je značkovací jazyk pro tvorbu
+webových stránek. HTML definuje strukturu stránky a dává jednotlivým
+jejím částem určitý význam. V HTML se struktura definuje pomocí
+takzvaných elementů, pojdmě se podívat na některé z nich.
+      
+Tak třeba takový div element. Ten svému obsahu
+nepřidává vůbec žádný význam, ale zato je velice populární pro
+stylování částí stránky. Nicméně div element by se měl použít jen
+tehdy, když neexistuje jiný sémantický element, který by obsah lépe
+popisoval. Příliš častému používání div elementu místo smysluplnějších
+elementů se v anglickém slangu říká „divitis“, což zní jako latinský výraz pro nějakou nemoc.
+
+
+Komentáře
+
+Díky za skvělé intro do HTML 👍
+Tomáš,25.3.2024
+           
+Výborný článok, hneď som si skúsil vytvoriť jednoduchú stránku
+podľa neho, dávam tiež palec hore 👍
+Michal J.,1.4.2024
+           
+Prej divitis :D, rekl bych ze tim trpi vetsina koderu.
+HTML borec,20.7.2024
+   
+Přidej komentář
+
+        
+O autorovi
+
+Jan Kovařík
+          
+Zabývám se webovými technologiemi, rád píšu o všech možných
+novinkách ze světa HTML, CSS a JavaScriptu
