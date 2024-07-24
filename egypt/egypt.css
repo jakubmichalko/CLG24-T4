@@ -29,7 +29,7 @@ section {
     margin: 20px 0;
 }
 #booking-form {
-    background: #63A069;
+    background: rgb(189, 223, 148);
     padding: 20px;
     border-radius: 5px;
     max-width: 600px;
@@ -55,7 +55,7 @@ section {
 footer {
     text-align: center;
     padding: 10px 0;
-    background: #63A069;
+    background: rgb(189, 223, 148);
     color: #ffffff;
     position: fixed;
     width: 100%;
@@ -64,34 +64,51 @@ footer {
 .product {
     display: flex;
     font-size: 20px;
-    background-color: #63A069;
+    background-color: rgb(189, 223, 148);
     padding: 5px;
     padding-bottom: 5px;
 }
 .nálada {
     flex-flow: row-reverse;
-    background-color: rgb(189, 223, 148);
+    background-color: #63A069;
     padding: 10px;
     
 }
 .lol {
     display: flex;
     font-size: 20px;
-    background-color: #63A069;
+    background-color: rgb(189, 223, 148);
     padding: 5px;
     padding-bottom: 5px;
 }
 .ahoj {
     display: flex;
     font-size: 20px;
-    background-color: #63A069;
+    background-color: rgb(189, 223, 148);
     padding: 5px;
     padding-bottom: 5px;
 }
 .máma {
     flex-flow: row-reverse;
+    background-color: #63A069;
+    padding: 10px;
+    
+}
+.cus {
+    flex-flow: row-reverse;
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    
+}
+.táta {
+    flex-flow: row-reverse;
     background-color: rgb(189, 223, 148);
     padding: 10px;
     
 }
-
+.ema {
+    flex-flow: row-reverse;
+    background-color: rgb(198, 231, 158);
+    padding: 10px;
+    
+}
