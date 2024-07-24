@@ -1,74 +1,77 @@
 body {
-    font-family: 'Arial', sans-serif;
+    font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #849E5F;
+    line-height: 1.6;
 }
-
-.container {
-    width: 80%;
-    margin: 0 auto;
-}
-
 header {
-    background-color: #4C8353
-    3:55;
-    color: #fff;
-    padding: 1rem 0;
+    background: #63A069;
+    color: #ffffff
+    4;
+    color: #000000;
+    padding: 10px 0;
     text-align: center;
 }
-
 nav ul {
     list-style: none;
     padding: 0;
 }
-
 nav ul li {
     display: inline;
-    margin: 0 1rem;
+    margin: 0 10px;
 }
-
 nav ul li a {
-    color: #FFD0CC;
+    color: #000000;
     text-decoration: none;
 }
-
-.hero {
-    background: url('https://example.com/green-hero-image.jpg') no-repeat center center/cover;
-    color: #849E5F;
-    text-align: center;
-    padding: 5rem 0;
-}
-
-.hero h2 {
-    font-size: 3rem;
-    margin: 0;
-}
-
-.hero p {
-    font-size: 1.5rem;
-}
-
-.btn {
-    display: inline-block;
-    padding: 0.5rem 1rem;
-    background-color: #66bb6a;
-    color: #CF4D69;
-    text-decoration: none;
-    border-radius: 5px;
-    margin-top: 1rem;
-}
-
 section {
-    padding: 2rem 0;
-    text-align: center;
+    padding: 20px;
+    margin: 20px 0;
 }
-
+#booking-form {
+    background: #63A069;
+    padding: 20px;
+    border-radius: 5px;
+    max-width: 600px;
+    margin: 0 auto;
+}
+#booking-form label,
+#booking-form input,
+#booking-form button {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+}
+#booking-form button {
+    background: #63A069;
+    color: #63A069;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}
+#search-results {
+    margin-top: 20px;
+}
 footer {
-    background-color: #2e7d32;
-    color: #CF4D69;
     text-align: center;
-    padding: 1rem 0;
+    padding: 10px 0;
+    background: #63A069;
+    color: #ffffff;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
 }
-
+.product {
+    display: flex;
+    font-size: 20px;
+    background-color: #63A069;
+    padding: 5px;
+    padding-bottom: 5px;
+}
+.nálada {
+    flex-flow: row-reverse;
+    background-color: rgb(189, 223, 148);
+    padding: 10px;
+    
+}
 
