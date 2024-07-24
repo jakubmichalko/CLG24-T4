@@ -150,3 +150,12 @@ footer {
     border: 1px solid #ddd;
     border-radius: 4px;
 }
+
+a.nadpis {
+    text-decoration: none;
+    color: #000000;
+}
+
+a.nadpis:hover {
+    text-decoration: underline;
+}
