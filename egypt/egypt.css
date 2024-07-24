@@ -96,7 +96,7 @@ footer {
 }
 .cus {
     flex-flow: row-reverse;
-    background-color: rgb(255, 255, 255);
+    background-color: #ffffff;
     padding: 10px;
     
 }
@@ -108,7 +108,7 @@ footer {
 }
 .ema {
     flex-flow: row-reverse;
-    background-color: rgb(198, 231, 158);
+    background-color: rgb(189, 223, 148);
     padding: 10px;
     
 }
