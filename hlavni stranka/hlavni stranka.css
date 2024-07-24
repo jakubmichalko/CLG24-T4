@@ -98,10 +98,9 @@ h3 {
     border: 5px solid #000000;
 }
 
-#footer {
-    height: 500px;
-    margin-left: 50px;
-    margin-right: 50px;
+footer {
+    height: 300px;
+    margin: 50px;
 }
 
 ul {
@@ -115,4 +114,9 @@ ul {
 
 .popisek {
     font-size: medium;
+}
+
+.nadpis {
+    font-size: 30px;
+    font-weight: bold;
 }
