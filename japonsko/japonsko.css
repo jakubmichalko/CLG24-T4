@@ -40,7 +40,7 @@ body {
 .Tokio {
     padding: 20px;
     color: #000000;
-    background-color: #545256;
+    background-color: rgb(189, 223, 148);
     font-family: "Montserrat", sans-serif;
 }
 
@@ -79,7 +79,7 @@ div {
 .Osaka {
     padding: 20px;
     color: #000000;
-    background-color: #545256;
+    background-color: rgb(189, 223, 148);
     font-family: "Montserrat", sans-serif;
 }
 
@@ -93,7 +93,7 @@ div {
 .Yokohama {
     padding: 20px;
     color: #000000;
-    background-color: #545256;
+    background-color: rgb(189, 223, 148);
     font-family: "Montserrat", sans-serif;
 }
 
@@ -107,7 +107,7 @@ div {
 .Kyoto {
     padding: 20px;
     color: #000000;
-    background-color: #545256;
+    background-color: rgb(189, 223, 148);
     font-family: "Montserrat", sans-serif;
 }
 
