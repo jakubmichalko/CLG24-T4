@@ -1,3 +1,51 @@
-.body{
+body {
+    font-family: "Montserrat", sans-serif;
+    background-color: #FEEEEC;
     color: black;
-}
+  }
+  
+  .Brasília {
+      padding: 20px;
+      color: #000000;
+      background-color: #b7ffbe;
+      font-family: "Montserrat", sans-serif;
+      transition: 
+  }
+  
+  .BrasíliaText {
+      padding: 20px;
+      color: black;
+      background-color: #FEEEEC;
+      font-family: "Montserrat", sans-serif;
+  }
+  
+  .BrasíliaText {
+      display: flex;
+      align-items: flex-end;
+  }
+  
+  a {
+      padding: 10px;
+      color: black;
+      background-color: red;
+      font-family: sans-serif;
+      transition-duration: 1s;
+      cursor: pointer;
+  }
+  
+  a:hover {
+      background-color: maroon;
+      transform: translateY(-5px);
+  }
+  
+  header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+  }
+  
+  div {
+      display: flex;
+      align-self: flex-start;
+  }
+  
