@@ -1,5 +1,45 @@
-.body {
-    background-color:  #FFD0CC;
-    font-family: sans-serif;
-    color: black;
+body {
+  font-family: "Montserrat", sans-serif;
+  background-color: #FEEEEC;
+  color: black;
 }
+
+.Tokio {
+    padding: 20px;
+    color: #000000;
+    background-color: #b7ffbe;
+    font-family: "Montserrat", sans-serif;
+    transition: 
+}
+
+.TokioText {
+    padding: 20px;
+    color: black;
+    background-color: #FEEEEC;
+    font-family: "Montserrat", sans-serif;
+}
+
+.Tokio.TokioText {
+    display: flex;
+    flex-direction: row;
+}
+
+a {
+    padding: 10px;
+    color: black;
+    background-color: red;
+    font-family: sans-serif;
+    transition-duration: 1s;
+    cursor: pointer;
+}
+
+a:hover {
+    background-color: maroon;
+    transform: translateY(-5px);
+}
+
+header {
+    display: flex;
+    justify-content: center;
+}
+
