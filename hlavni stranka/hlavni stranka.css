@@ -56,6 +56,7 @@ h4 {
     font-weight: bolder;
     margin-right: 100px;
     margin-left: 50px;
+    font-size: 30px;
 }
 
 h3 {
@@ -119,4 +120,8 @@ ul {
 .nadpis {
     font-size: 30px;
     font-weight: bold;
+}
+
+li {
+    font-size: 25px;
 }
