@@ -44,6 +44,7 @@ h1{
     display: flex;
     justify-content: center;
     align-items: center;
+    font-size: 35px;
 }
 
 body {
@@ -99,11 +100,6 @@ h3 {
     border: 5px solid #000000;
 }
 
-footer {
-    height: 300px;
-    margin: 50px;
-}
-
 ul {
     margin-right: 100px;
     margin-left: 50px;
@@ -124,4 +120,33 @@ ul {
 
 li {
     font-size: 25px;
+}
+
+footer {
+    background-color: #f8f8f8;
+    padding: 20px;
+    margin-top: 40px;
+}
+
+.footerPanel {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start; 
+}
+
+.item {
+    flex: 1; 
+    margin: 0 10px; 
+    min-width: 200px;
+}
+
+.tluste {
+    font-weight: bold;
+}
+
+.kontakty, .social, .adress {
+    padding: 10px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
 }
