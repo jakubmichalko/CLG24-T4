@@ -9,19 +9,13 @@ body {
     color: #000000;
     background-color: #b7ffbe;
     font-family: "Montserrat", sans-serif;
-    transition: 
 }
 
 .TokioText {
-    padding: 20px;
-    color: black;
+    flex-direction: column;
     background-color: #FEEEEC;
+    padding: 10px;
     font-family: "Montserrat", sans-serif;
-}
-
-.TokioText {
-    display: flex;
-    align-items: flex-end;
 }
 
 a {
