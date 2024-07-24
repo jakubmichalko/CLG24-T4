@@ -5,7 +5,7 @@ body, html {
 }
 
 .header {
-    background-image: url('file:///C:/Users/Student%2012/Downloads/img.jpg');
+    background-image: url('../images/img.jpg');
     background-size: cover;
     background-position: center;
     height: 100vh; 
