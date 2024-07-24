@@ -19,9 +19,9 @@ body {
     font-family: "Montserrat", sans-serif;
 }
 
-.Tokio.TokioText {
+.TokioText {
     display: flex;
-    flex-direction: row;
+    align-items: flex-end;
 }
 
 a {
@@ -42,4 +42,9 @@ header {
     display: flex;
     flex-direction: column;
     align-items: center;
+}
+
+div {
+    display: flex;
+    align-self: flex-start;
 }
