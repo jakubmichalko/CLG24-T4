@@ -1,20 +1,19 @@
 body {
   font-family: "Montserrat", sans-serif;
-  background-color: #FEEEEC;
+  background-color: white;
   color: black;
 }
 
 .Tokio {
-
     padding: 20px;
     color: #000000;
-    background-color: #b7ffbe;
+    background-color: #545256;
     font-family: "Montserrat", sans-serif;
 }
 
 .TokioText {
     flex-direction: column;
-    background-color: #FEEEEC;
+    background-color: white;
     padding: 10px;
     font-family: "Montserrat", sans-serif;
 }
@@ -42,4 +41,46 @@ header {
 div {
     display: flex;
     align-self: flex-start;
+}
+
+.Osaka {
+    padding: 20px;
+    color: #000000;
+    background-color: #545256;
+    font-family: "Montserrat", sans-serif;
+}
+
+.OsakaText {
+    flex-direction: column;
+    background-color: white;
+    padding: 10px;
+    font-family: "Montserrat", sans-serif;
+}
+
+.Yokohama {
+    padding: 20px;
+    color: #000000;
+    background-color: #545256;
+    font-family: "Montserrat", sans-serif;
+}
+
+.YokohamaText {
+    flex-direction: column;
+    background-color: white;
+    padding: 10px;
+    font-family: "Montserrat", sans-serif;
+}
+
+.Kyoto {
+    padding: 20px;
+    color: #000000;
+    background-color: #545256;
+    font-family: "Montserrat", sans-serif;
+}
+
+.KyotoText {
+    flex-direction: column;
+    background-color: white;
+    padding: 10px;
+    font-family: "Montserrat", sans-serif;
 }
