@@ -50,17 +50,20 @@ h1 {
       font-family: "Montserrat", sans-serif;
   }
   
-  a {
+  .koupit {
       padding: 10px;
-      color: rgb(255, 255, 255);
       background-color: rgb(232, 51, 51);
       font-family: sans-serif;
       transition-duration: 1s;
       cursor: pointer;
-      text-decoration: underline rgb(232, 51, 51);
+      
   }
+   .koupit a{
+    color: white;
+    text-decoration: none;
+   }
   
-  a:hover {
+  .koupit:hover {
       background-color: maroon;
       transform: translateY(-5px);
   }
@@ -71,8 +74,32 @@ h1 {
       align-items: center;
   }
   
-  div {
+  .lisa {
       display: flex;
       align-self: flex-start;
   }
+  footer {
+    background-color: #F8F8F8;
+    padding: 20px;
+    margin-top: 40px;
+}
+.footerPanel {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+.item {
+    flex: 1;
+    margin: 0 10px;
+    min-width: 200px;
+}
+.tluste {
+    font-weight: bold;
+}
+.kontakty, .social, .adress {
+    padding: 10px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
   
