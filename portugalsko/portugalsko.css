@@ -41,6 +41,8 @@ h1 {
       color: #000000;
       background-color: rgb(189, 223, 148);
       font-family: "Montserrat", sans-serif;
+      display: flex;
+      align-self: flex-start;
   }
   
   .lisatext {
@@ -74,10 +76,7 @@ h1 {
       align-items: center;
   }
   
-  .lisa {
-      display: flex;
-      align-self: flex-start;
-  }
+
   footer {
     background-color: #F8F8F8;
     padding: 20px;
