@@ -39,7 +39,7 @@ h1 {
   .lisa {
       padding: 20px;
       color: #000000;
-      background-color: #545256;
+      background-color: rgb(189, 223, 148);
       font-family: "Montserrat", sans-serif;
   }
   
@@ -52,7 +52,7 @@ h1 {
   
   a {
       padding: 10px;
-      color: black;
+      color: rgb(255, 253, 253);
       background-color: rgb(206, 39, 39);
       font-family: sans-serif;
       transition-duration: 1s;
