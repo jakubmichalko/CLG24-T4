@@ -41,6 +41,8 @@ h1 {
       color: #000000;
       background-color: rgb(189, 223, 148);
       font-family: "Montserrat", sans-serif;
+      display: flex;
+      align-self: flex-start;
   }
   
   .lisatext {
@@ -48,18 +50,23 @@ h1 {
       background-color: #ffffff;
       padding: 10px;
       font-family: "Montserrat", sans-serif;
+      align-items: flex-start;
   }
   
-  a {
+  .koupit {
       padding: 10px;
-      color: rgb(255, 253, 253);
       background-color: rgb(206, 39, 39);
       font-family: sans-serif;
       transition-duration: 1s;
       cursor: pointer;
+      
+  }
+  .koupit a { 
+    color: rgb(255, 253, 253);
+    text-decoration: none;
   }
   
-  a:hover {
+  .koupit:hover {
       background-color: maroon;
       transform: translateY(-5px);
   }
@@ -70,11 +77,31 @@ h1 {
       align-items: center;
   }
   
-  div {
-      display: flex;
-      align-self: flex-start;
-  }
   
+  footer {
+    background-color: #F8F8F8;
+    padding: 20px;
+    margin-top: 40px;
+}
+.footerPanel {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+.item {
+    flex: 1;
+    margin: 0 10px;
+    min-width: 200px;
+}
+.tluste {
+    font-weight: bold;
+}
+.kontakty, .social, .adress {
+    padding: 10px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
   
   
 
