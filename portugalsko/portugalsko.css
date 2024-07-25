@@ -52,7 +52,7 @@ h1 {
   
   a {
       padding: 10px;
-      color: black;
+      color: rgb(255, 255, 255);
       background-color: rgb(232, 51, 51);
       font-family: sans-serif;
       transition-duration: 1s;
